@@ -1,0 +1,629 @@
+"Notes"	"2013 Urbanization"	"2013 Urbanization Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Gender"	"Gender Code"	"Year"	"Year Code"	"ICD Chapter"	"ICD Chapter Code"	Deaths	Population	Crude Rate
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	189	4128153	4.58
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	162	3927359	4.12
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	164	3832922	4.28
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	346	4174848	8.29
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	362	3914726	9.25
+	"Large Central Metro"	"1"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	302	3868689	7.81
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	347	4080593	8.50
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	357	4073995	8.76
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	324	4023987	8.05
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	689	4164599	16.54
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	710	4129877	17.19
+	"Large Central Metro"	"1"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	721	4123347	17.49
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	549	3668536	14.97
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	541	3690677	14.66
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	562	3622587	15.51
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1267	3676918	34.46
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1217	3760960	32.36
+	"Large Central Metro"	"1"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1197	3738115	32.02
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	902	3309016	27.26
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	920	3375929	27.25
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	968	3351976	28.88
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1923	3245656	59.25
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2017	3366653	59.91
+	"Large Central Metro"	"1"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1950	3389221	57.54
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1467	3209600	45.71
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1466	3149023	46.55
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1421	3072380	46.25
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3315	3097560	107.02
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3271	3089855	105.86
+	"Large Central Metro"	"1"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3078	3043767	101.12
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2333	3166942	73.67
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2465	3203230	76.95
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2217	3144938	70.49
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5691	3065187	185.67
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5534	3174646	174.32
+	"Large Central Metro"	"1"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5071	3142865	161.35
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4007	3221381	124.39
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3854	3183572	121.06
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3641	3056343	119.13
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	9064	3047599	297.41
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	8719	3090909	282.09
+	"Large Central Metro"	"1"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	8150	2993496	272.26
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6135	3055352	200.80
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6046	3063056	197.38
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5963	2995128	199.09
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12661	2775459	456.18
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12479	2868245	435.07
+	"Large Central Metro"	"1"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	12031	2825757	425.76
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	7843	2603164	301.29
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7980	2645941	301.59
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7686	2636539	291.52
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	14304	2225331	642.78
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14237	2325157	612.30
+	"Large Central Metro"	"1"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	14337	2328385	615.75
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	10374	2120995	489.11
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	10294	2192249	469.56
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	10490	2166229	484.25
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	15025	1734093	866.45
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	15229	1819357	837.05
+	"Large Central Metro"	"1"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15543	1785664	870.43
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12255	1465966	835.97
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12217	1451779	841.52
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	12794	1564538	817.75
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	14876	1117838	1330.78
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14829	1124807	1318.36
+	"Large Central Metro"	"1"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15660	1216726	1287.06
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	15805	1011664	1562.28
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	15232	981325	1552.19
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15659	1027967	1523.30
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	15630	703909	2220.46
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14987	688798	2175.82
+	"Large Central Metro"	"1"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15503	711190	2179.87
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	20548	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	19099	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	19104	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	16231	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	15279	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15271	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	21665	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	20041	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	19909	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13085	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12479	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	12604	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13013	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12185	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	12456	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5663	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5294	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5300	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3556	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3391	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3504	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	967	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	909	Not Applicable	Not Applicable
+	"Large Central Metro"	"1"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1032	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	126	2600606	4.85
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	139	2577636	5.39
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	115	2541587	4.52
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	234	2707121	8.64
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	241	2649482	9.10
+	"Large Fringe Metro"	"2"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	237	2652297	8.94
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	255	2703036	9.43
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	241	2768883	8.70
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	244	2782611	8.77
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	426	2719525	15.66
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	465	2774409	16.76
+	"Large Fringe Metro"	"2"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	450	2819193	15.96
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	419	2799452	14.97
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	424	2864299	14.80
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	383	2853976	13.42
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	773	2753521	28.07
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	874	2862470	30.53
+	"Large Fringe Metro"	"2"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	800	2881544	27.76
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	658	2702434	24.35
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	655	2806123	23.34
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	696	2838092	24.52
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1353	2636280	51.32
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1496	2786623	53.69
+	"Large Fringe Metro"	"2"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1403	2856271	49.12
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1037	2713504	38.22
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1046	2672067	39.15
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	935	2634308	35.49
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2349	2629663	89.33
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2320	2642188	87.81
+	"Large Fringe Metro"	"2"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2216	2633265	84.15
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1728	2820080	61.27
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1771	2864527	61.83
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1688	2822521	59.80
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4039	2711816	148.94
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4064	2830534	143.58
+	"Large Fringe Metro"	"2"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3872	2823540	137.13
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2860	2959791	96.63
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3031	2945125	102.92
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2871	2853638	100.61
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6609	2810459	235.16
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6540	2863453	228.40
+	"Large Fringe Metro"	"2"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6131	2792017	219.59
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4431	2776234	159.60
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4484	2827225	158.60
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4624	2811593	164.46
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	9312	2581885	360.67
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	9537	2701633	353.01
+	"Large Fringe Metro"	"2"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	9253	2696131	343.20
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5868	2355408	249.13
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6427	2415276	266.10
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6319	2448073	258.12
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	10807	2081196	519.27
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	11210	2193520	511.05
+	"Large Fringe Metro"	"2"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	11432	2230071	512.63
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	8317	1962198	423.86
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	8784	2039318	430.73
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	8782	2025588	433.55
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12545	1670571	750.94
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13060	1760248	741.94
+	"Large Fringe Metro"	"2"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	13211	1734115	761.83
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	10549	1365922	772.30
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	11194	1361179	822.38
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	11905	1498639	794.39
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13668	1098079	1244.72
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13895	1108944	1252.99
+	"Large Fringe Metro"	"2"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15030	1220858	1231.10
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13565	902087	1503.74
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14115	885879	1593.33
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	14750	951799	1549.70
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	14395	659723	2181.98
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14426	656386	2197.79
+	"Large Fringe Metro"	"2"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15380	696174	2209.22
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	18339	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	17769	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	18060	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	15226	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	14808	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	15212	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	19944	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	19155	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	19425	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12295	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12094	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	12360	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	11661	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	11230	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	11624	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5118	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4778	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4999	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2932	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2894	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3125	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	802	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	767	Not Applicable	Not Applicable
+	"Large Fringe Metro"	"2"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	871	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	149	2339588	6.37
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	131	2291375	5.72
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	127	2190449	5.80
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	262	2460822	10.65
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	271	2380771	11.38
+	"Medium Metro"	"3"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	226	2306418	9.80
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	252	2270027	11.10
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	293	2324634	12.60
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	265	2275403	11.65
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	501	2315181	21.64
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	521	2362706	22.05
+	"Medium Metro"	"3"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	473	2337840	20.23
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	441	2207411	19.98
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	481	2247620	21.40
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	469	2169673	21.62
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	897	2205396	40.67
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	925	2281070	40.55
+	"Medium Metro"	"3"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	858	2219679	38.65
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	722	2068353	34.91
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	805	2142574	37.57
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	787	2102069	37.44
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1465	2036918	71.92
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1542	2148559	71.77
+	"Medium Metro"	"3"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1399	2134346	65.55
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1159	2045795	56.65
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1181	2010450	58.74
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1146	1923245	59.59
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2395	1984118	120.71
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2331	1990036	117.13
+	"Medium Metro"	"3"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2230	1924838	115.85
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1873	2105563	88.95
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1888	2138103	88.30
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1787	2048468	87.24
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3960	2029895	195.08
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4165	2112302	197.18
+	"Medium Metro"	"3"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3925	2042321	192.18
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3032	2305369	131.52
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2990	2269833	131.73
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2977	2118174	140.55
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6519	2151335	303.02
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6606	2174412	303.81
+	"Medium Metro"	"3"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6285	2046879	307.05
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4529	2292334	197.57
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4762	2310307	206.12
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4821	2219110	217.25
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	9586	2084395	459.89
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	9863	2158284	456.98
+	"Medium Metro"	"3"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	9447	2076653	454.91
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6074	2054818	295.60
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6343	2088828	303.66
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6360	2049265	310.36
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	10868	1804791	602.17
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	11436	1877409	609.14
+	"Medium Metro"	"3"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	11464	1842716	622.13
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	8033	1729374	464.50
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	8672	1788665	484.83
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	8658	1729624	500.57
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12249	1499733	816.75
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13422	1568935	855.48
+	"Medium Metro"	"3"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	13112	1502759	872.53
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	9906	1206905	820.78
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	10406	1189875	874.55
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	11100	1270058	873.98
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12972	993187	1306.10
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13274	995315	1333.65
+	"Medium Metro"	"3"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	14308	1064724	1343.82
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	12374	801550	1543.76
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	12704	778237	1632.41
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	13258	807466	1641.93
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13254	603728	2195.36
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13577	592243	2292.47
+	"Medium Metro"	"3"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	14203	606022	2343.64
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	16032	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	15544	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	16363	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	13547	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	13520	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	13874	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	16951	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	16298	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	16505	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	10613	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	10523	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	10669	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	9386	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	8941	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	9486	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4247	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4067	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4192	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2281	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2256	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2355	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	669	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	613	Not Applicable	Not Applicable
+	"Medium Metro"	"3"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	688	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	65	969158	6.71
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	60	941563	6.37
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	64	923606	6.93
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	122	1046102	11.66
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	116	1005709	11.53
+	"Small Metro"	"4"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	107	1002536	10.67
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	114	929550	12.26
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	142	949822	14.95
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	104	955156	10.89
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	217	969766	22.38
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	235	985772	23.84
+	"Small Metro"	"4"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	211	1002961	21.04
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	201	909477	22.10
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	211	921006	22.91
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	194	912955	21.25
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	384	926577	41.44
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	371	952640	38.94
+	"Small Metro"	"4"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	425	952126	44.64
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	347	850505	40.80
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	348	882083	39.45
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	386	893304	43.21
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	652	859168	75.89
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	705	904158	77.97
+	"Small Metro"	"4"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	674	924274	72.92
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	557	835308	66.68
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	580	818075	70.90
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	536	810621	66.12
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1027	826594	124.24
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1102	828005	133.09
+	"Small Metro"	"4"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1017	828946	122.69
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	885	872836	101.39
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	860	882452	97.46
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	902	873202	103.30
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1778	851036	208.92
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1892	882759	214.33
+	"Small Metro"	"4"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1720	882410	194.92
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1427	990675	144.04
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1459	970137	150.39
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1362	935013	145.67
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3148	933322	337.29
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3101	937266	330.86
+	"Small Metro"	"4"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2987	910828	327.94
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2252	1017450	221.34
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2406	1021459	235.55
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2323	1010752	229.83
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4563	930406	490.43
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4745	959600	494.48
+	"Small Metro"	"4"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4610	953714	483.37
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2994	932099	321.21
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3127	944623	331.03
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3201	953784	335.61
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5266	831688	633.17
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5737	861961	665.58
+	"Small Metro"	"4"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5591	872651	640.69
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3899	785606	496.30
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4210	813709	517.38
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4307	809896	531.80
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6249	698846	894.19
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6785	732433	926.36
+	"Small Metro"	"4"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6380	721382	884.41
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4754	552846	859.91
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4985	541233	921.05
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5409	593687	911.09
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6450	464994	1387.11
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6553	461480	1420.00
+	"Small Metro"	"4"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7123	507915	1402.40
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6045	372170	1624.26
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6086	359698	1691.97
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6425	380849	1687.02
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6594	286366	2302.65
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6748	279792	2411.79
+	"Small Metro"	"4"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7036	292183	2408.08
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	7676	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7395	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7658	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6439	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6527	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6737	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	7673	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7510	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7553	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4945	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4735	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4871	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4185	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4066	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4189	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1797	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1823	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1846	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1035	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1034	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1073	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	266	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	229	Not Applicable	Not Applicable
+	"Small Metro"	"4"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	288	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	53	814678	6.51
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	61	790874	7.71
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	57	768446	7.42
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	114	906753	12.57
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	114	874982	13.03
+	"Micropolitan (Nonmetro)"	"5"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	100	858910	11.64
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	133	790255	16.83
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	153	808101	18.93
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	121	810193	14.93
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	221	850916	25.97
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	212	865177	24.50
+	"Micropolitan (Nonmetro)"	"5"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	204	871155	23.42
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	194	792642	24.48
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	206	800714	25.73
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	216	785750	27.49
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	389	828415	46.96
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	377	851680	44.27
+	"Micropolitan (Nonmetro)"	"5"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	389	840903	46.26
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	365	762653	47.86
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	371	786410	47.18
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	365	788387	46.30
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	629	790816	79.54
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	740	829470	89.21
+	"Micropolitan (Nonmetro)"	"5"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	761	836690	90.95
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	631	770915	81.85
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	575	751938	76.47
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	570	734690	77.58
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1105	787812	140.26
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1120	784678	142.73
+	"Micropolitan (Nonmetro)"	"5"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1033	773562	133.54
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	899	813905	110.46
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	961	820703	117.09
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	921	804730	114.45
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1895	818143	231.62
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2006	847118	236.80
+	"Micropolitan (Nonmetro)"	"5"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1886	837781	225.12
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1653	937413	176.34
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1730	914865	189.10
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1524	870826	175.01
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3263	904322	360.82
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3324	906639	366.63
+	"Micropolitan (Nonmetro)"	"5"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3072	870291	352.99
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2271	968279	234.54
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2543	970706	261.97
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2481	950502	261.02
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4770	914044	521.86
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5071	939667	539.66
+	"Micropolitan (Nonmetro)"	"5"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4840	921090	525.46
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3039	881062	344.92
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3266	892357	366.00
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3401	892928	380.88
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5542	816557	678.70
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5943	843830	704.29
+	"Micropolitan (Nonmetro)"	"5"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6023	844348	713.33
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4121	732612	562.51
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4438	755734	587.24
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4427	744456	594.66
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6523	667866	976.69
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6830	699621	976.24
+	"Micropolitan (Nonmetro)"	"5"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6881	684049	1005.92
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4992	519958	960.08
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5386	505367	1065.76
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5466	544390	1004.06
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6679	442953	1507.83
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6895	436740	1578.74
+	"Micropolitan (Nonmetro)"	"5"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7167	471983	1518.49
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6175	353113	1748.73
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6407	339614	1886.55
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6572	352033	1866.87
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6818	272521	2501.83
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7131	264877	2692.19
+	"Micropolitan (Nonmetro)"	"5"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7159	269988	2651.60
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	7567	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7431	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7604	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	6480	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	6431	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	6393	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	7617	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	7330	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	7335	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4680	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4647	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4472	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4035	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3974	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3890	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1761	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1576	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1719	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1006	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	980	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1045	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	248	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	265	Not Applicable	Not Applicable
+	"Micropolitan (Nonmetro)"	"5"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	274	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	40	503934	7.94
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	58	484612	11.97
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	43	474166	9.07
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	59	579480	10.18
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	69	553388	12.47
+	"NonCore (Nonmetro)"	"6"	"25-29 years"	"25-29"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	78	549277	14.20
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	94	495689	18.96
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	92	502889	18.29
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	70	509846	13.73
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	158	549266	28.77
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	165	556363	29.66
+	"NonCore (Nonmetro)"	"6"	"30-34 years"	"30-34"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	149	566822	26.29
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	164	513198	31.96
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	173	511169	33.84
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	154	503565	30.58
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	308	546761	56.33
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	325	555013	58.56
+	"NonCore (Nonmetro)"	"6"	"35-39 years"	"35-39"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	305	552636	55.19
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	264	506647	52.11
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	321	517637	62.01
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	277	521529	53.11
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	526	539442	97.51
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	588	558317	105.32
+	"NonCore (Nonmetro)"	"6"	"40-44 years"	"40-44"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	518	565803	91.55
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	441	522580	84.39
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	441	504200	87.47
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	432	496546	87.00
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	817	547157	149.32
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	854	540995	157.86
+	"NonCore (Nonmetro)"	"6"	"45-49 years"	"45-49"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	817	537947	151.87
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	741	564413	131.29
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	747	561709	132.99
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	676	555427	121.71
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1468	575711	254.99
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1635	588843	277.66
+	"NonCore (Nonmetro)"	"6"	"50-54 years"	"50-54"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1473	587620	250.67
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1277	676542	188.75
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1227	653723	187.69
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1188	625793	189.84
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2552	664891	383.82
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2624	657380	399.16
+	"NonCore (Nonmetro)"	"6"	"55-59 years"	"55-59"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2501	633561	394.75
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1875	713423	262.82
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2019	709738	284.47
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1925	702153	274.16
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3835	691317	554.74
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4068	705830	576.34
+	"NonCore (Nonmetro)"	"6"	"60-64 years "	"60-64"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3903	700259	557.37
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	2410	656765	366.95
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2451	659082	371.88
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2547	665862	382.51
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4532	630788	718.47
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4845	646336	749.61
+	"NonCore (Nonmetro)"	"6"	"65-69 years"	"65-69"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4732	653074	724.57
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3224	551757	584.32
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3444	561254	613.63
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3423	554766	617.02
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5071	522080	971.31
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5500	540279	1017.99
+	"NonCore (Nonmetro)"	"6"	"70-74 years"	"70-74"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5527	532285	1038.35
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3923	401552	976.96
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4105	382926	1072.01
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	4380	410432	1067.17
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5388	356633	1510.80
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5552	345124	1608.70
+	"NonCore (Nonmetro)"	"6"	"75-79 years"	"75-79"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5782	371201	1557.65
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4961	274539	1807.03
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5088	260449	1953.55
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5189	269525	1925.24
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5583	223344	2499.73
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5671	214008	2649.90
+	"NonCore (Nonmetro)"	"6"	"80-84 years"	"80-84"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5805	217313	2671.26
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5898	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5887	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5882	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	4949	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	4956	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"85-89 years"	"85-89"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5053	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	5649	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	5616	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	5612	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3582	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	3402	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"90-94 years"	"90-94"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	3478	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	3090	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	2792	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	2996	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	1337	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	1262	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"95-99 years"	"95-99"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	1274	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Female"	"F"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	861	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Female"	"F"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	798	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Female"	"F"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	765	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Male"	"M"	"2020"	"2020"	"Diseases of the circulatory system"	"I00-I99"	172	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Male"	"M"	"2021"	"2021"	"Diseases of the circulatory system"	"I00-I99"	166	Not Applicable	Not Applicable
+	"NonCore (Nonmetro)"	"6"	"100+ years"	"100+"	"Male"	"M"	"2022 "	"2022"	"Diseases of the circulatory system"	"I00-I99"	169	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 2018-2022, Single Race"
+"Query Parameters:"
+"Five-Year Age Groups: 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ;"
+"65-69 years; 70-74 years; 75-79 years; 80-84 years; 85-89 years; 90-94 years; 95-99 years; 100+ years"
+"ICD-10 Codes: I00-I99 (Diseases of the circulatory system)"
+"Year/Month: 2020; 2021; 2022"
+"Group By: 2013 Urbanization; Five-Year Age Groups; Gender; Year; ICD Chapter"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jun 22, 2024 6:39:42 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2022 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jun 22, 2024 6:39:42 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Ages 85-100."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"3. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"4. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"5. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
