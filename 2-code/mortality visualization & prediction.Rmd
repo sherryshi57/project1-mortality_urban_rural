@@ -1,0 +1,208 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(readxl)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+# Load necessary libraries
+library(purrr)  # For functional programming tools
+library(nlme)
+
+
+# Load data
+data <- read_excel("./output_data.xlsx")
+
+# Remove the underscore from year columns and adjust names
+names(data) <- gsub("^_", "", names(data))
+
+# Define the year columns based on adjusted names
+year_columns <- grep("^[0-9]{4}$", names(data), value = TRUE)
+
+# Function to extract the numeric value before the parenthesis
+extract_numeric <- function(x) {
+  as.numeric(gsub(" \\(.*$", "", x))
+}
+
+# Apply the function to extract numbers from year columns
+data[year_columns] <- sapply(data[year_columns], extract_numeric)
+
+# Reshape data to a long format for easier plotting
+data_long <- data %>%
+  pivot_longer(cols = year_columns, names_to = "Year", values_to = "Value") %>%
+  mutate(Year = as.numeric(Year)) 
+
+# Filter data to include only specific categories
+data_filtered <- data_long %>%
+  filter(Category %in% c("overall", "Large Metro", "Small/Medium Metro", "Rural")) %>%
+  select(PopSize, Year, Value) 
+
+# Plotting
+plot <- ggplot(data_filtered, aes(x = Year, y = Value, color = PopSize, group = PopSize)) +
+  geom_line(linewidth = 0.8) +  # Thinner line
+  geom_point(size = 3) +  # Add points
+  #geom_smooth(method = "lm", se = FALSE, color = "black", size = 0.5, formula = y ~ x)+  # Specify the formula  # Trend lines
+  scale_color_manual(values = c("Large Metro" = "red", "Small/Medium Metro" = "blue", "Rural" = "orange")) +
+  labs(title = "Trend of Age-adjusted Mortality Rates by Rurality",
+       x = "Year",
+       y = "Mortality Rate (per 100,000)") +
+  theme_minimal() +
+  theme(
+    legend.position = "bottom",  # Position legend at the bottom
+    plot.title = element_text(hjust = 0.5),  # Center the plot title
+    plot.background = element_rect(fill = "white", colour = "white")  # Set plot background
+  ) +
+  scale_x_continuous(breaks = seq(min(data_filtered$Year), max(data_filtered$Year), by = 1)) +  # Yearly breaks
+  scale_y_continuous(limits = c(200, 450))  # Set y-axis limits
+
+# Print the plot
+print(plot)
+
+# Save the plot to a PNG file
+ggsave("output/1-trend-plot.png", plot, width = 10, height = 6, units = "in")
+
+```
+
+
+
+
+
+
+
+```{r}
+
+# Build models
+models <- data_filtered %>%
+  group_by(PopSize) %>%
+  do(model = lm(Value ~ Year, data = .))
+
+# Create future_years data frame
+future_years <- data.frame(Year = seq(2023, 2028))
+# Prepare data frame for prediction years
+years_to_predict <- data.frame(Year = seq(2023, 2028))
+
+# Initialize an empty list to store predictions
+predictions <- list()
+
+# Iterate over each unique PopSize to generate predictions
+for(popsize in unique(data_filtered$PopSize)) {
+  model <- models$model[models$PopSize == popsize]
+  
+  # Create a future_data for each PopSize
+  future_data <- data.frame(Year = years_to_predict$Year)
+  
+  # Make predictions using the corresponding model
+  predictions[[popsize]] <- predict(model[[1]], newdata = future_data)
+}
+
+# Combine predictions with PopSize and Year for easier interpretation
+prediction_results <- do.call(rbind, lapply(names(predictions), function(popsize) {
+  data.frame(PopSize = popsize, Year = years_to_predict$Year, Value = predictions[[popsize]])
+}))
+
+print(prediction_results)
+
+```
+
+
+```{r}
+
+# Mark datasets to distinguish between actual and predicted data
+data_filtered$Type <- "Actual"
+prediction_results$Type <- "Predicted"
+
+# Combine the dataframes
+combined_data <- rbind(data_filtered, prediction_results)
+
+ordered_data <- combined_data %>%
+  arrange(PopSize, Year, Type)
+
+```
+
+```{r}
+
+# Plotting the data
+mlr <- ggplot(data = ordered_data, aes(x = Year, y = Value, color = PopSize, linetype = Type)) +
+  geom_line() +
+  scale_linetype_manual(values = c("solid", "dotted")) +  # Set actual data as solid and predictions as dotted
+  labs(title = "Trend of Age-adjusted Mortality Rates by Rurality (MLR) ",
+       y = "Mortality Rate (per 100,000)",
+       x = "Year") +
+  theme_minimal() +
+  theme(legend.title = element_blank(),  # Remove the legend title
+        legend.position = "bottom",  # Position legend at the bottom
+        plot.title = element_text(hjust = 0.5),  # Center the plot title
+        plot.background = element_rect(fill = "white", colour = "white"))  # Set plot background
+
+  
+print(mlr)
+
+# Save the plot to a PNG file
+ggsave("output/2-mlr-plot.png", mlr, width = 10, height = 6, units = "in")
+
+```
+
+```{r}
+library(mgcv)
+library(nlme)
+
+# Initialize a list to store models
+models_gam <- list()
+
+# List of categories
+pop_sizes <- unique(data_filtered$PopSize)
+
+# Fit a GAM for each PopSize
+for (pop in pop_sizes) {
+  subset_data <- filter(data_filtered, PopSize == pop)
+  models_gam[[pop]] <- gam(Value ~ s(Year), data = subset_data, family = gaussian())
+}
+
+# Future years data frame
+future_years <- data.frame(Year = seq(2023, 2028))
+
+# Initialize an empty data frame for storing predictions
+data_predictions <- data.frame()
+
+# Generate predictions for each category
+for (pop in pop_sizes) {
+  model <- models_gam[[pop]]
+  future_data <- data.frame(Year = future_years$Year)
+  predictions_gam <- predict(model, newdata = future_data, type = "response")
+  
+  # Combine predictions with the future_years and store in data_predictions
+  data_predictions <- rbind(data_predictions, 
+                            data.frame(Year = future_years$Year, Value = predictions_gam, PopSize = pop, Type = "Predicted"))
+}
+
+# Mark your actual data as such if not already done
+data_filtered$Type <- "Actual"
+
+# Combine actual and predicted data
+final_plot_data <- rbind(data_filtered, data_predictions)
+
+# Plot using ggplot2
+
+gam <- ggplot(final_plot_data, aes(x = Year, y = Value, color = PopSize, linetype = Type)) +
+  geom_line() +
+  scale_linetype_manual(values = c("solid", "dotted")) +
+  labs(title = "Trend of Age-adjusted Mortality Rates by Rurality (GAM)",
+       x = "Year", y = "Mortality Rate (per 100,000)") +
+  theme_minimal()+
+  theme(legend.title = element_blank(),  # Remove the legend title
+        legend.position = "bottom",  # Position legend at the bottom
+        plot.title = element_text(hjust = 0.5),  # Center the plot title
+        plot.background = element_rect(fill = "white", colour = "white"))  # Set plot background
+
+  
+print(gam)
+
+# Save the plot to a PNG file
+ggsave("output/3-gam-plot.png", gam, width = 10, height = 6, units = "in")
+
+
+```
