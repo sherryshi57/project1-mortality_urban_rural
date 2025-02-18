@@ -1,3 +1,3 @@
-`  git rm 
-   git commit -m “delete file”
-   git push`
+`  git rm `
+   git commit -m "delete file”
+  ` git push`
