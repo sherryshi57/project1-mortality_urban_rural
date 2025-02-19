@@ -13,3 +13,5 @@
 
 ### Note
 - Model prediction in R language is not necessary, and the actual result graph is not accurate. The trend projections shown are illustrative. For more rigorous predictive modeling, advanced machine learning frameworks (e.g., Python's scikit-learn) are recommended for improved forecast accuracy.
+- The current data processing pipeline, while functional, presents opportunities for optimization. The extensive SAS code generates multiple intermediate tables during analysis. Future iterations of this project could benefit from code refactoring to improve computational efficiency and reduce redundant data operations. Potential optimization strategies include streamlining table generation processes and implementing more efficient data manipulation techniques.
+
