@@ -1,3 +1,9 @@
+﻿
+%let pg1dataset=E:\github\project 1\1-dataset; /* Set the file path folder to your own file path */
+%let pg1output=E:\github\project 1\3-output;  /* Set the file path folder to your own file path */
+
+*set a libref pg1;
+libname pg1 "&pg1dataset";
 
 
 data poisson_data;
